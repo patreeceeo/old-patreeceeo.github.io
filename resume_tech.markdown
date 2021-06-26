@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resume (tech)
+title: resume.tech
 permalink: /resume/tech
 ---
 
@@ -86,6 +86,10 @@ Though extremely comfortable with writing code, my sights are set on a position 
 3. __Software engineer__ (Constant Contact, Inc)
 
    Looked to as an example for how to write clean, testable JavaScript. Became part of small frontend specialist team. Introduced the Backbone microframework to help structure code. Coded components for WYSIWYG email template editor.
+
+4. __Embedded software development intern__ (Adtec, Inc)
+
+   Learned Linux, C++. Wrote daemons that parsed XML, utilized interprocess communication mechanisms, dereferenced gobs of pointers, etc.
 
 ## Education
 
