@@ -28,6 +28,7 @@ Though extremely comfortable with writing code, my sights are set on a position 
 
    Skills:
    - Geometry/Trigonometry
+   - 3D Graphics
    - Visual design
    - Responsive Web design
    - Various software design patterns
