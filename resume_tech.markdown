@@ -6,7 +6,9 @@ permalink: /resume/tech
 
 # Technology Resume
 
-Though extremely comfortable with writing code, my sights are set on a position that involves as much creativity, collaboration and mentoring (and being mentored) as it does actual coding.
+Though extremely comfortable with writing code, my sights are set on a position that involves as much creativity, collaboration and mentoring (and being mentored) as it does writing code.
+
+When it comes writing code, I aspire to write code that is as much an artifact for human beings per se as instructions to be executed by a computer.
 
 ## Experience
 
@@ -17,7 +19,6 @@ Though extremely comfortable with writing code, my sights are set on a position 
    Building [a multiplayer, 3D platformer for the web](https://cybersquirrels.com/room/dead-mouse). Work in progress.
 
    Technologies:
-
    - Elixir (Pheonix)
    - TypeScript (React, Three.js, ECSY, MobX, Jest)
    - NPM
