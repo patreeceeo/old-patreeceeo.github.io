@@ -30,7 +30,7 @@ minima:
     stackoverflow: '1390383'
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@master
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
