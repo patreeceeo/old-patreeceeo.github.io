@@ -3,6 +3,34 @@
   height: $spacing-unit;
 }
 
+.ListHeading {
+  color: #777;
+  font-weight: bold;
+  line-height: inherit;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.Columns2 {
+  columns: 23vw;
+  column-gap: 3vw;
+}
+
+ol {
+  list-style: none;
+  margin-left: 0;
+  list-style-position: outside;
+}
+
+// ol > li {
+//   break-after: always;
+// }
+
+ul {
+  columns: 23vw;
+  column-gap: 3vw;
+}
 li > ul, li > ol {
   margin-bottom: $spacing-unit / 2;
 }
