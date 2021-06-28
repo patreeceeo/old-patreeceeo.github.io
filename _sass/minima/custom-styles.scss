@@ -13,8 +13,8 @@
 }
 
 .Columns2 {
-  columns: 23vw;
-  column-gap: 3vw;
+  // columns: 23vw;
+  // column-gap: 3vw;
 }
 
 ol {
@@ -28,8 +28,6 @@ ol {
 // }
 
 ul {
-  columns: 23vw;
-  column-gap: 3vw;
 }
 li > ul, li > ol {
   margin-bottom: $spacing-unit / 2;
