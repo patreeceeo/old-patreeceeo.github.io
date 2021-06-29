@@ -33,3 +33,9 @@ ul {
 li > ul, li > ol {
   margin-bottom: $spacing-unit / 2;
 }
+
+@media screen and (max-width: 600px) {
+ .site-title {
+  padding-right: 0;
+ }
+}
