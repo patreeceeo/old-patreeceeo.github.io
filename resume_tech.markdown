@@ -5,13 +5,10 @@ permalink: /resume/tech
 ---
 
 # Patrick Canfield
-<div class="VirticalGap"></div>
-<div class="VirticalGap"></div>
-<div class="VirticalGap"></div>
 
-Though extremely comfortable with writing code, my sights are set on a position that involves creativity, collaboration and mentoring (and being mentored) in equal portions.
+Though extremely comfortable with writing code, my sights are set on a position that involves coding, creativity, collaboration and mentoring (and being mentored) in equal portions.
 
-When it comes writing code, I aspire my writing to be as much an artifact for human beings per se as instructions to be executed by a computer.
+Every developer strives to write correct code as fast as possible. I also want my code to be as much an artifact for human beings per se as instructions to be executed by a computer.
 
 ## Experience
 
@@ -124,7 +121,6 @@ When it comes writing code, I aspire my writing to be as much an artifact for hu
 4. __Embedded software development intern__ (Adtec, Inc)
 
    Learned Linux, C++. Wrote daemons that parsed XML, utilized interprocess communication mechanisms, dereferenced gobs of pointers, etc.
-{: .Columns2}
 
 ## Education
 
