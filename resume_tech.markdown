@@ -22,7 +22,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
    Technologies
    {: .ListHeading}
 
-   - Elixir (Pheonix)
+   - Elixir (Phoenix)
    - TypeScript
      - React
      - Three.js
@@ -52,7 +52,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
 
    __Senior software engineer__ (Rally Health, Inc)
 
-   [Wrote an engineering blog article](https://www.rallyhealth.com/coding/smelling-the-roses-with-persistent-http-connections) on long-lived HTTP connections as an alternative to more well-known techniques for asynchronous updates. Maintained the "Benefits Page" product, implemented as a SPA. Built a microservice to simplify the SPA's code and reduce time to First Meaning Paint. Provided technical direction in effort to port the Benefits Page to the UHG "experience." Lead effort to increase automated test coverage. Added draft state indicator to internal Github Pull Request Slackbot. Started work on frontend engineer-focused onboarding materials. Provided technical documentation and training for collegues who would be taking over for me.
+   [Wrote an engineering blog article](https://www.rallyhealth.com/coding/smelling-the-roses-with-persistent-http-connections) on long-lived HTTP connections as an alternative to more well-known techniques for asynchronous updates. Maintained the "Benefits Page" product, implemented as a SPA. Built a microservice to simplify the SPA's code and reduce time to First Meaning Paint. Provided technical direction in effort to port the Benefits Page to the UHG "experience." Lead effort to increase automated test coverage. Added draft state indicator to internal Github Pull Request Slackbot. Started work on frontend engineer-focused onboarding materials. Provided technical documentation and training for colleagues who would be taking over for me.
 
    Technologies
    {: .ListHeading}
@@ -109,7 +109,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
 
 1. __Frontend engineer__ (Metromile, Inc)
 
-   Coded user interfaces for the Web, including one for replaying recent trips on a map. Created scaffolding code to facilitate rapid iteration. Started a weekly frontend engineer knowledge-sharing meeting. Worked closely with designers to make the product more engaging and useable.
+   Coded user interfaces for the Web, including one for replaying recent trips on a map. Created scaffolding code to facilitate rapid iteration. Started a weekly frontend engineer knowledge-sharing meeting. Worked closely with designers to make the product more engaging and usable.
 
 2. __Software engineer__ (Synack, Inc)
 
