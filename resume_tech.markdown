@@ -9,7 +9,7 @@ permalink: /resume/tech
 
 Though extremely comfortable with writing code, my sights are set on a position that involves coding, creativity, collaboration and mentoring (and being mentored) in equal portions.
 
-Every developer strives to write correct code as fast as possible. I also want my code to be as much an artifact for human beings per se as instructions to be executed by a computer.
+Every developer strives to write correct code as fast as possible. I also prefer my code to be as much an artifact for human beings per se as instructions to be executed by a computer.
 
 ## Experience
 
