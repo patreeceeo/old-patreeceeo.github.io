@@ -54,7 +54,7 @@ When it comes writing code, I aspire to write code that is as much an artifact f
 
    __Senior software engineer__ (Rally Health, Inc)
 
-   Wrote an engineering blog article on long-lived HTTP connections as an alternative to more well-known techniques for asynchronous updates. Maintained the "Benefits Page" product, implemented as a SPA. Built a microservice to simplify the SPA's code and reduce time to First Meaning Paint. Provided technical direction in effort to port the Benefits Page to the UHG "experience." Lead effort to increase automated test coverage. Added draft state indicator to internal Github Pull Request Slackbot. Started work on frontend engineer-focused onboarding materials. Provided technical documentation and training for collegues who would be taking over for me.
+   [Wrote an engineering blog article](https://www.rallyhealth.com/coding/smelling-the-roses-with-persistent-http-connections) on long-lived HTTP connections as an alternative to more well-known techniques for asynchronous updates. Maintained the "Benefits Page" product, implemented as a SPA. Built a microservice to simplify the SPA's code and reduce time to First Meaning Paint. Provided technical direction in effort to port the Benefits Page to the UHG "experience." Lead effort to increase automated test coverage. Added draft state indicator to internal Github Pull Request Slackbot. Started work on frontend engineer-focused onboarding materials. Provided technical documentation and training for collegues who would be taking over for me.
 
    Technologies
    {: .ListHeading}
