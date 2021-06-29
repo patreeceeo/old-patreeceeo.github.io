@@ -5,6 +5,7 @@ permalink: /resume/tech
 ---
 
 # Patrick Canfield
+<me@patrickcanfield.com>
 
 Though extremely comfortable with writing code, my sights are set on a position that involves coding, creativity, collaboration and mentoring (and being mentored) in equal portions.
 
