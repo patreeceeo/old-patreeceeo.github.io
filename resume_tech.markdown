@@ -17,7 +17,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
 
    __Video game developer__ (self-employed)
 
-   Building [a multiplayer, 3D platformer for the web](https://cybersquirrels.com/room/dead-mouse). Work in progress.
+   Building [a multiplayer, 3D platformer for the web](https://cybersquirrels.net/room/dead-mouse). Work in progress.
 
    Technologies
    {: .ListHeading}
