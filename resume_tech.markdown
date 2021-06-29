@@ -9,9 +9,9 @@ permalink: /resume/tech
 <div class="VirticalGap"></div>
 <div class="VirticalGap"></div>
 
-Though extremely comfortable with writing code, my sights are set on a position that involves as much creativity, collaboration and mentoring (and being mentored) as it does writing code.
+Though extremely comfortable with writing code, my sights are set on a position that involves creativity, collaboration and mentoring (and being mentored) in equal portions.
 
-When it comes writing code, I aspire to write code that is as much an artifact for human beings per se as instructions to be executed by a computer.
+When it comes writing code, I aspire my writing to be as much an artifact for human beings per se as instructions to be executed by a computer.
 
 ## Experience
 
