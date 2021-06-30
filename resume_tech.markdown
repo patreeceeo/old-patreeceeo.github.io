@@ -20,7 +20,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
    Building [a multiplayer, 3D platformer for the web](https://cybersquirrels.net/room/dead-mouse). Work in progress.
 
    Technologies
-   {: .ListHeading}
+   {: .list-heading}
 
    - Elixir (Phoenix)
    - TypeScript
@@ -35,7 +35,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
    - Linux
 
    Skills
-   {: .ListHeading}
+   {: .list-heading}
 
    - Geometry/Trigonometry
    - 3D Graphics
@@ -46,7 +46,6 @@ Every developer strives to write correct code as fast as possible. I also prefer
    - Concurrency
    - Unit testing
    - Performance optimization of high-level language
-  {: .PageBreakAfter}
 
 2. 2018-10-xx --- 2021-02-01
 
@@ -55,7 +54,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
    [Wrote an engineering blog article](https://www.rallyhealth.com/coding/smelling-the-roses-with-persistent-http-connections) on long-lived HTTP connections as an alternative to more well-known techniques for asynchronous updates. Maintained the "Benefits Page" product, implemented as a SPA. Built a microservice to simplify the SPA's code and reduce time to First Meaning Paint. Provided technical direction in effort to port the Benefits Page to the UHG "experience." Lead effort to increase automated test coverage. Added draft state indicator to internal Github Pull Request Slackbot. Started work on frontend engineer-focused onboarding materials. Provided technical documentation and training for colleagues who would be taking over for me.
 
    Technologies
-   {: .ListHeading}
+   {: .list-heading}
 
    - TypeScript
      - React
@@ -69,7 +68,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
    - NGINX
 
    Skills
-   {: .ListHeading}
+   {: .list-heading}
 
    - Speaking/Presenting
    - Technical writing
@@ -84,7 +83,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
    #3 employee. Designed and coded user interfaces, including a WYSIWYG registration form builder. Helped design initial landing page. Helped with efforts to secure funding.
 
    Technologies
-   {: .ListHeading}
+   {: .list-heading}
 
    - ES2017
      - React
@@ -97,7 +96,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
    - Sketch [vector graphics editor]
 
    Skills
-   {: .ListHeading}
+   {: .list-heading}
 
    - Test-driven development
    - Self-direction

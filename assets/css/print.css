@@ -6,12 +6,4 @@ body {
   font-size: 14px !important;
 }
 
-.PageBreakAfter {
-  break-after: page;
-}
 
-.VirticalGap {
-  opacity: 0;
-  visibility: hidden;
-  margin-bottom: 3rem;
-}
