@@ -13,12 +13,26 @@
   margin: 0;
 }
 
-ol {
+ol, ul {
   list-style: none;
   margin-left: 0;
-  list-style-position: outside;
+  list-style-position: inside;
+
+  &.list.list_icon-computer {
+    list-style-type: '💻 ';
+  }
+
+  &.list.list_icon-brain {
+    list-style-type: '🧠 ';
+  }
 }
 
+// see https://developer.mozilla.org/en-US/docs/Web/CSS/list-style#accessibility_concerns
+ul li::before {
+  content: "\200B";
+}
+
+// Override (weird) rule from Minima theme
 li > ul, li > ol {
   margin-bottom: $spacing-unit / 2;
 }
@@ -28,3 +42,12 @@ li > ul, li > ol {
   padding-right: 0;
  }
 }
+
+.no-margin {
+  margin: 0;
+}
+
+.cols.cols_count2 {
+  column-count: 2;
+}
+

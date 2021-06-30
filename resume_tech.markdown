@@ -5,7 +5,10 @@ permalink: /resume/tech
 ---
 
 # Patrick Canfield
+{: .no-margin}
 <me@patrickcanfield.com>
+{: .no-margin}
+San Francisco, CA
 
 Though extremely comfortable with writing code, my sights are set on a position that involves coding, creativity, collaboration and mentoring (and being mentored) in equal portions.
 
@@ -24,15 +27,16 @@ Every developer strives to write correct code as fast as possible. I also prefer
 
    - Elixir (Phoenix)
    - TypeScript
-     - React
-     - Three.js
-     - MobX
-     - Jest
+   - React
+   - Three.js
+   - MobX
+   - Jest
    - NPM
    - Webpack
    - Blender
    - Websockets
    - Linux
+   {: .cols.cols_count2.list.list_icon-computer}
 
    Skills
    {: .list-heading}
@@ -46,6 +50,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
    - Concurrency
    - Unit testing
    - Performance optimization of high-level language
+   {: .cols.cols_count2.list.list_icon-brain}
 
 2. 2018-10-xx --- 2021-02-01
 
@@ -57,15 +62,16 @@ Every developer strives to write correct code as fast as possible. I also prefer
    {: .list-heading}
 
    - TypeScript
-     - React
-     - Angular
-     - Redux
-     - Jest
+   - React
+   - Angular
+   - Redux
+   - Jest
    - CSS-in-JS (Styled Components)
    - NPM
    - Webpack
    - Scala
    - NGINX
+   {: .cols.cols_count2.list.list_icon-computer}
 
    Skills
    {: .list-heading}
@@ -75,6 +81,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
    - Test-driven development
    - Functional programming
    - Agile Software Development
+   {: .cols.cols_count2.list.list_icon-brain}
 
 3. 2016-11-xx --- 2018-03-01
 
@@ -86,14 +93,15 @@ Every developer strives to write correct code as fast as possible. I also prefer
    {: .list-heading}
 
    - ES2017
-     - React
-     - Redux
-     - Jest
+   - React
+   - Redux
+   - Jest
    - SASS
    - Webpack
    - Python (Pyramid)
    - RethinkDB
    - Sketch [vector graphics editor]
+   {: .cols.cols_count2.list.list_icon-computer}
 
    Skills
    {: .list-heading}
@@ -103,6 +111,7 @@ Every developer strives to write correct code as fast as possible. I also prefer
    - Visual design
    - Responsive Web design
    - Writing
+   {: .cols.cols_count2.list.list_icon-brain}
 
 ## Earlier Experience
 
