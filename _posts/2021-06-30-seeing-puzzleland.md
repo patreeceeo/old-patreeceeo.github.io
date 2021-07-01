@@ -15,7 +15,7 @@ To give a concrete example, in one puzzle we're given that, in Wonderland, unlik
 
 Applying my visualization scheme to the above, I get something like:
 
-![a directed edge-vertex graph](/alice-in-puzzle-land-graph.png)
+![a directed edge-vertex graph](/alice-in-puzzle-land-graph.png)[^3]
 
 Where "S" stands for Sane, "B" for believes, and unlabeled edges simply mean "is". I used a prime operator (') to distinguish between different instances of the same noun (i.e. the hatter, hare, and mouse) for the sake of the graphing software which would otherwise make only one vertex per unique string. Finally, "~" means not, so "~B" means "does not believe."
 
@@ -28,3 +28,4 @@ ___[Spoiler] Scroll down for solution___
 
 [^1]: Alice in Puzzleland, Raymond Smullyan
 [^2]: At least, I believe I came up with it on my own.
+[^3]: Made with <https://csacademy.com/app/graph_editor/>
