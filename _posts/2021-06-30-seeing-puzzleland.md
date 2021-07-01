@@ -11,7 +11,7 @@ Being a visual person, I found drawing pictures to be helpful. Gradually I devel
 
 The other realization was that there's a basic algorithm to solving these puzzles. There are only a handful of permutations of the unknowns in a given problem, so the puzzler can simply brute-force try them all, reject the impossible, and whatever remains must be the solution(s).
 
-To give a concrete example, in one puzzle we're given that, in Wonderland, unlike ours, every sane person's beliefs are 100% true, and every mad person's beliefs are 100% false. We're also given that the Mad Hatter believes that the March Hare does _not_ believe that he, the hatter and the Dormouse are all sane. Also, the Dormouse believes that the March Hare is sane.
+To give a concrete example, in one puzzle we're given that, in Wonderland, unlike ours, every sane person's beliefs are 100% true, and every mad person's beliefs are 100% false. We're also given that the Mad Hatter believes that the March Hare does _not_ believe that he, the hatter and the Dormouse are all sane. Also, the Dormouse believes that the March Hare is sane. We're asked what we can deduce about the sanity of this trio.
 
 Applying my visualization scheme to the above, I get something like:
 
