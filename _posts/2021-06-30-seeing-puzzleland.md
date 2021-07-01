@@ -17,7 +17,7 @@ Applying my visualization scheme to the above, I get something like:
 
 ![a directed edge-vertex graph](/alice-in-puzzle-land-graph.png)[^3]
 
-Where "S" stands for Sane, "B" for believes, and unlabeled edges simply mean "is". I used a prime operator (') to distinguish between different instances of the same noun (i.e. the hatter, hare, and mouse) for the sake of the graphing software which would otherwise make only one vertex per unique string. Finally, "~" means not, so "~B" means "does not believe."
+Where "S" stands for Sane, "B" for believes, and unlabeled edges simply mean "is". I used a prime operator (') to distinguish between different instances of the same noun (i.e. the hatter, hare, and mouse) or adjective (i.e. sane) for the sake of the graphing software which would otherwise make only one vertex per unique string. Finally, "~" means not, so "~B" means "does not believe."
 
 Once I had this in place, it was fairly easy to say to myself things like "let's suppose the hatter is sane" then follow the implications using the graph as a thinking aid and find the solution. Namely, that ---
 
