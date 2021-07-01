@@ -11,13 +11,13 @@ Being a visual person, I found drawing pictures to be helpful. Gradually I devel
 
 The other realization was that there's a basic algorithm to solving these puzzles. There are only a handful of permutations of the unknowns in a given problem, so the puzzler can simply brute-force try them all, reject the impossible, and whatever remains must be the solution(s).
 
-To give a concrete example, in one puzzles we're given that, in Wonderland, unlike ours, every sane person's beliefs are 100% true, and every mad person's beliefs are 100% false. We're also given that the Mad Hatter believes that the March Hare does _not_ believe that he, the hatter and the Dormouse are all sane. Also, the Dormouse believes that the March Hare is sane.
+To give a concrete example, in one puzzle we're given that, in Wonderland, unlike ours, every sane person's beliefs are 100% true, and every mad person's beliefs are 100% false. We're also given that the Mad Hatter believes that the March Hare does _not_ believe that he, the hatter and the Dormouse are all sane. Also, the Dormouse believes that the March Hare is sane.
 
 Applying my visualization scheme to the above, I get something like:
 
 ![a directed edge-vertex graph](/alice-in-puzzle-land-graph.png)
 
-Where "S" stands for Sane, "B" for believes, and unlabled edges simply mean "is". I used a prime operator (') to distinguish between different instances of the same noun (i.e. the hatter, hare, and mouse) for the sake of the graphing software which would otherwise make only one vertex per unique string. Finally, "~" means not, so "~B" means "does not believe."
+Where "S" stands for Sane, "B" for believes, and unlabeled edges simply mean "is". I used a prime operator (') to distinguish between different instances of the same noun (i.e. the hatter, hare, and mouse) for the sake of the graphing software which would otherwise make only one vertex per unique string. Finally, "~" means not, so "~B" means "does not believe."
 
 Once I had this in place, it was fairly easy to say to myself things like "let's suppose the hatter is sane" then follow the implications using the graph as a thinking aid and find the solution. Namely, that ---
 
