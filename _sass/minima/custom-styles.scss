@@ -1,5 +1,5 @@
 body {
-  background-image: url('/assets/images/dakota-corner.png');
+  background-image: url("/assets/images/dakota-corner.png");
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: 12rem;
@@ -19,17 +19,18 @@ body {
   margin: 0;
 }
 
-ol, ul {
+ol,
+ul {
   list-style: none;
   margin-left: 0;
   list-style-position: inside;
 
   &.list.list_icon-computer {
-    list-style-type: '💻 ';
+    list-style-type: "💻 ";
   }
 
   &.list.list_icon-brain {
-    list-style-type: '🧠 ';
+    list-style-type: "🧠 ";
   }
 }
 
@@ -39,14 +40,15 @@ ul li::before {
 }
 
 // Override (weird) rule from Minima theme
-li > ul, li > ol {
+li > ul,
+li > ol {
   margin-bottom: $spacing-unit / 2;
 }
 
 @media screen and (max-width: 600px) {
- .site-title {
-  padding-right: 0;
- }
+  .site-title {
+    padding-right: 0;
+  }
 }
 
 .no-margin {
@@ -59,4 +61,22 @@ li > ul, li > ol {
 
 .vertical-space_full-screen {
   height: 100vw;
+}
+
+.post-list.post-list_art li a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1 1 auto;
+  img {
+    max-height: 10rem;
+    box-shadow: rgba(0,0,0,0.5) 0.1rem 0.3rem 0.6rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .post-list.post-list_art li a img {
+    display: none;
+  }
 }
