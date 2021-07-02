@@ -21,7 +21,7 @@ The next couple were a team effort between Vince and I. He was planning a pickup
 
 ![Flyer featuring an octopus holding a pint of beer and a trash picker](/assets/images/RefuseRefuseFlyer-PartyAnimal.jpg)
 
-In this one, Vince was planning an event in the Mission District and suggested featuring one of the neighborhood's many street murals.
+In this one, Vince was planning an event in the Mission District and suggested featuring one of the neighborhood's many street murals. I picked the Carlos Santana mural on 19th near Mission street.
 
 ![Flyer featuring the likeness of Carlos Santana looking surprised/excited in front of a pile of trash](/assets/images/RefuseRefuseFlyer-Santana.jpg)
 
