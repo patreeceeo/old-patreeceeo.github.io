@@ -25,6 +25,6 @@ In this one, Vince was planning an event in the Mission District and suggested f
 
 ![Flyer featuring the likeness of Carlos Santana looking surprised/excited in front of a pile of trash](/assets/images/RefuseRefuseFlyer-Santana.jpg)
 
-I think this last one looks the best, aesthetically. I think that's because the image takes up a larger portion of the flyer, integrating with some of the informational elements. The rest of the text is positioned and formatted in a way that is unpredictable enough to be interesting without appearing random or messy. Also, the constricted color palette evokes show posters of the 60s and 70s, which probably includes some of Santana's posters.
+I think this last one looks the best, aesthetically. I think that's because the image takes up a larger portion of the flyer, integrating with some of the informational elements. The rest of the text is positioned and formatted in a way that is unpredictable enough to be interesting without appearing random or messy. Also, the constricted color palette evokes show posters of the late 60s and 70s, which probably includes some of Santana's old posters.
 
 The software I used to make these: Procreate on the iPad for the illustrations, which were sometimes touched up a bit with Krita. The final compositions were created with Google docs, which, while lacking in some ways, makes sharing and collaboration easy.
