@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<ul>
+{% for series in site.data.art_series %}
+  <li>
+    <ul>
+      <h3>{{series.title}}</h3>
+      {% for piece in series.pieces %}
+      <li>
+        <img src="{{piece.img_src}}" alt="{{piece.description}}"/>
+      </li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>

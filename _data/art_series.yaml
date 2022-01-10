@@ -1,0 +1,33 @@
+- title: Refuse Refuse flyers
+  pieces:
+    - description: Flyer featuring Sutro tower with a giant plastic 6-pack holder hanging off of it.
+      img_src: /assets/images/RefuseRefuseFlyer-Sutro.jpg
+
+    - description: Flyer featuring a California poppy miraculously growing on a plastic bottle
+      img_src: /assets/images/RefuseRefuseFlyer-Poppy.jpg
+
+    - description: Flyer featuring a distressed seagull
+      img_src: /assets/images/RefuseRefuseFlyer-Seagull.jpg
+
+    - description: Flyer featuring an octopus holding a pint of beer and a trash picker
+      img_src: /assets/images/RefuseRefuseFlyer-PartyAnimal.jpg
+
+    - description: Flyer featuring the likeness of Carlos Santana looking surprised in front of a pile of trash
+      img_src: /assets/images/RefuseRefuseFlyer-Santana.jpg
+
+    - description: Flyer featuring stylized silhouete of man picking up trash.
+      img_src: /assets/images/RefuseRefuseFlyer-FillmoreJazz.jpg
+
+
+- title: Kat Comix
+  pieces:
+    - description: Kill the danger noodle!
+      img_src: /assets/images/Cat-vs-Vacuum-cord.jpg
+
+    - description: Cat on the prowl
+      img_src: /assets/images/catflythonk.jpg
+
+- title: SF Bicycle Coalition Winterfest 2018 piece
+  pieces:
+    - description: A dude on a bike
+      img_src: /assets/images/cyclingisnofun.jpg
