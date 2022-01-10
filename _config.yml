@@ -20,7 +20,7 @@
 
 title: patrick's site
 description: >- # this means to ignore newlines until "baseurl:"
-  Serious play involving ideas, computers, art, etc.
+  Illustration, graphic design, interactive media, writing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://patrickcanfield.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,8 +31,7 @@ author:
 minima:
   social_links:
     twitter: patreeceeo
-    github:  patreeceeo
-    stackoverflow: '1390383'
+    instagram: patreeceeo
 
 # Build settings
 remote_theme: jekyll/minima@master
