@@ -1,25 +1,32 @@
-- title: Refuse Refuse flyers
+
+- title: Portraits
   pieces:
-    - description: Flyer featuring Sutro tower with a giant plastic 6-pack holder hanging off of it.
-      img_src: /assets/images/RefuseRefuseFlyer-Sutro.jpg
+    - img_src: /assets/images/portrait-1.jpg
+      description: Digital painting using Procreate for the iPad
 
-    - description: Flyer featuring a California poppy miraculously growing on a plastic bottle
-      img_src: /assets/images/RefuseRefuseFlyer-Poppy.jpg
+    - img_src: /assets/images/portrait-azero.jpg
+      description: I like non-digital art, too.
 
-    - description: Flyer featuring a distressed seagull
+
+- title: Flyer design for community organization
+  pieces:
+    - description: Riff on scenic 49 mile drive signs
       img_src: /assets/images/RefuseRefuseFlyer-Seagull.jpg
 
-    - description: Flyer featuring an octopus holding a pint of beer and a trash picker
-      img_src: /assets/images/RefuseRefuseFlyer-PartyAnimal.jpg
-
-    - description: Flyer featuring the likeness of Carlos Santana looking surprised in front of a pile of trash
+    - description: Riff on Carlos Santana mural
       img_src: /assets/images/RefuseRefuseFlyer-Santana.jpg
 
-    - description: Flyer featuring stylized silhouete of man picking up trash.
+    - description: Riff on Fillmore Jazz festival flyers
       img_src: /assets/images/RefuseRefuseFlyer-FillmoreJazz.jpg
 
+    - description: California poppy miraculously growing on a plastic bottle
+      img_src: /assets/images/RefuseRefuseFlyer-Poppy.jpg
 
-- title: Kat Comix
+    - description: Calling all octopi
+      img_src: /assets/images/RefuseRefuseFlyer-PartyAnimal.jpg
+
+
+- title: Kat Comix, made using Procreate for the iPad
   pieces:
     - description: Kill the danger noodle!
       img_src: /assets/images/Cat-vs-Vacuum-cord.jpg
@@ -29,5 +36,5 @@
 
 - title: SF Bicycle Coalition Winterfest 2018 piece
   pieces:
-    - description: A dude on a bike
+    - description: A dude on a bike, made using Procreate for the iPad
       img_src: /assets/images/cyclingisnofun.jpg

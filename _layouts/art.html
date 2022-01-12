@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{{content}}
+
 <ul>
 {% for series in site.data.art_series %}
   <li>
@@ -9,7 +11,12 @@ layout: default
       <h3>{{series.title}}</h3>
       {% for piece in series.pieces %}
       <li>
+        <figure>
         <img src="{{piece.img_src}}" alt="{{piece.description}}"/>
+        <figcaption>
+          {{piece.description}}
+        </figcaption>
+        </figure>
       </li>
       {% endfor %}
     </ul>
