@@ -5,5 +5,5 @@
 layout: art
 ---
 
-Hi! I'm Patrick Canfield, an artist with an affinity for games and comics. In a past life I was a software engineer, now I'm on a quest to turn my passion for art in to a career.
+Hi! I'm Patrick Canfield. I make art out of necessity. I'm particularly interested in visual arts that have a narrative, like comics, or are interactive, like video games. I have a background in software engineering which I now leverage in my pursuit of artistic excellence. Currently seeking pro bono work in not-for-profit contexts or paid work elsewise.
 
