@@ -1,40 +1,42 @@
 
+- title: New stuff!
+  pieces:
+    - img_src: /assets/images/barn-vs-pbjsando.jpg
+      description: Natural enemies! Watercolor and Ink
+
+    - img_src: /assets/images/skater-girl-sketch.jpg
+      description: Pencil (Work in progress)
+
+    - img_src: /assets/images/burritoonboard.png
+      description: Do you know where your `ito is? Sticker/decal. Digital.
+
 - title: Portraits
   pieces:
     - img_src: /assets/images/portrait-1.jpg
-      description: Digital painting using Procreate for the iPad
+      description: Digital (Procreate/iPad)
 
     - img_src: /assets/images/portrait-azero.jpg
-      description: I like non-digital art, too.
+      description: Markers!
 
 
-- title: Flyer design for community organization
+- title: Graphic design
   pieces:
-    - description: Riff on scenic 49 mile drive signs
+    - description: Early 2000's party flyer
+      img_src: /assets/images/early2000spartyflyer.png
+
+    - description: Scenic, eh?
       img_src: /assets/images/RefuseRefuseFlyer-Seagull.jpg
 
-    - description: Riff on Carlos Santana mural
+    - description: WWSD?
       img_src: /assets/images/RefuseRefuseFlyer-Santana.jpg
 
-    - description: Riff on Fillmore Jazz festival flyers
+    - description: Smoooooth
       img_src: /assets/images/RefuseRefuseFlyer-FillmoreJazz.jpg
 
-    - description: California poppy miraculously growing on a plastic bottle
+    - description: Poppies not plastic!
       img_src: /assets/images/RefuseRefuseFlyer-Poppy.jpg
 
-    - description: Calling all octopi
+    - description: Especially the eight-armed varieties
       img_src: /assets/images/RefuseRefuseFlyer-PartyAnimal.jpg
 
 
-- title: Kat Comix, made using Procreate for the iPad
-  pieces:
-    - description: Kill the danger noodle!
-      img_src: /assets/images/Cat-vs-Vacuum-cord.jpg
-
-    - description: Cat on the prowl
-      img_src: /assets/images/catflythonk.jpg
-
-- title: SF Bicycle Coalition Winterfest 2018 piece
-  pieces:
-    - description: A dude on a bike, made using Procreate for the iPad
-      img_src: /assets/images/cyclingisnofun.jpg
