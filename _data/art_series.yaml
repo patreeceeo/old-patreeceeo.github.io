@@ -13,17 +13,29 @@
     - img_src: /assets/images/magic-gibbon.jpg
       description: Idk where I pulled this from. Marker/Ink.
 
+    - img_src: /assets/images/goth_stares_out_window.png
+      description: A day dreamer, like me. Digital.
+
+    - img_src: /assets/images/bees.jpg
+      description: BEES!
+
 - title: Portraits
   pieces:
     - img_src: /assets/images/portrait-1.jpg
       description: Digital (Procreate/iPad)
 
+    - img_src: /assets/images/portrait-2.jpg
+      description: Such saturation! Markers.
+
     - img_src: /assets/images/portrait-azero.jpg
-      description: Markers!
+      description: Slightly more realistic coloring. Markers.
 
 
-- title: Graphic design
+- title: Design
   pieces:
+    - description: Construction paper.
+      img_src: /assets/images/ztown-skater.jpg
+
     - description: Early 2000's party flyer
       img_src: /assets/images/early2000spartyflyer.png
 
