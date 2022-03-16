@@ -1,6 +1,9 @@
 
 - title: New stuff!
   pieces:
+    - img_src: /assets/images/skater-frog.png
+      description: I like frogs and (at least making art about) skateboarding. Digital.
+
     - img_src: /assets/images/drink-n-draw-folklore-flyer-small.gif
       description: Flyer. Watercolor, ink & digital
 
