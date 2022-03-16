@@ -5,4 +5,4 @@
 layout: art
 ---
 
-Hi! I'm an artist interested in illustration, graphic arts, video games, and comics. I love to seemlessly blend realism and cartoonism, depicting people, human or otherwise, having fantastic adventures.
+Hi! I'm a creator interested in illustration, video games, comics and character design. Currently hosting a regular in person [drink n' draw](https://www.meetup.com/Drink-and-Draw-Bay) (pandemic allowing) in San Francisco, doing illustrations for a nascent table top game, learning Godot, and reading lots of comics.

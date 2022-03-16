@@ -1,6 +1,9 @@
 
 - title: New stuff!
   pieces:
+    - img_src: /assets/images/drink-n-draw-folklore-flyer-small.gif
+      description: Flyer. Watercolor, ink & digital
+
     - img_src: /assets/images/barn-vs-pbjsando.jpg
       description: Natural enemies! Watercolor and Ink
 
